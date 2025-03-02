@@ -84,5 +84,3 @@ const apartment2 = new Apartment(300, 3);
 console.log(apartment2);
 console.log(apartment2.isBig());
 console.log(apartment2.calculatePrice());
-
-// promises
